@@ -217,7 +217,7 @@ export class ChatwootService {
         '123456',
         inboxId,
         false,
-        'EvolutionAPI',
+        'RouteTI',
       )) as any);
 
     if (!contact) {
